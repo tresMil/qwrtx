@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTINF:-0, Max Gomez 
+www.iptv-canales-maxgomez.com
+#EXTINF:-1, CREMECARTOON 24/7
+http://tecnotv.xyz/mediaplay/cremecartoon
+#EXTINF:-1, LOCOMOTION 24/7
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1, DRAGON BALL Z 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_goku_tv/chunklist.m3u8
+#EXTINF:-1, CHESPIRITO 24/7
+https://srregio.xyz/regiotv/knmr/chespiritotv.php
+#EXTINF:-1, LATINO KIDS 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_latinokidstv/chunklist.m3u8
+#EXTINF:-1, ANEFLIX 24/7
+https://srregio.xyz/regiotv/knmr/aneflix.php
+#EXTINF:-1, FM HOT 24/7
+https://srregio.xyz/regiotv/knmr/fmhot.php
+#EXTINF:-1, EXTREMA TV 24/7
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, WOWTV 24/7
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1, ZONE TERROR 24/7
+http://tecnotv.xyz/mediaplay/zoneterror
+#EXTINF:-1, ACS NETWORK 24/7
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8?
+#EXTINF:-1, LCREME 24/7
+http://tecnotv.xyz/mediaplay/lcreme
+#EXTINF:-1, LCREME CLASSICO 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcreme_classichd/chunklist.m3u8
+#EXTINF:-1, SERIES 342 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_seriesan342/chunklist.m3u8
+#EXTINF:-1, MEGA MOVIES 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_mega_movieshd/chunklist.m3u8
+#EXTINF:-1, LCREMEMAX 24/7
+http://tecnotv.xyz/mediaplay/lcrememax
+#EXTINF:-1, TERROR MANIA 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_terror_mania/chunklist.m3u8
+#EXTINF:-1, CINE CALIDAD 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_cine_calidad/chunklist.m3u8
+#EXTINF:-1, CINE STAR 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_cine_star/chunklist.m3u8
+#EXTINF:-1, VITATO 24/7
+http://tecnotv.xyz/mediaplay/vitato
+#EXTINF:-1, LCREME PLUS 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_lcremeplushd/chunklist.m3u8
+#EXTINF:-1, CREME DREAMS 24/7
+http://tecnotv.xyz/mediaplay/cremedreams
+#EXTINF:-1, KATY 24/7
+http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_katyhd/chunklist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=CARTOON_NETWORK_HD&type=m3u8
+#EXTINF:-1, DISNEY JUNIOR
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISNEY_JR&type=m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISNEY_HD&type=m3u8
+#EXTINF:-1, DISCOVERY KIDS
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISCOVERY_KIDS_HD&type=m3u8
+#EXTINF:-1, DISNEY XD
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISNEY_XD&type=m3u8
+#EXTINF:-1, TOONCAST 
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=TOONCAST&type=m3u8
+#EXTINF:-1, BOOMERANG 
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=BOOMERANG&type=m3u8
+#EXTINF:-1, HISTORY CHANNEL 
+http://millave.ml/canal2/kshdbvsgndvsiygdvsdvsdlfkghdfugisdsfsf-HISTORY_CHANNEL_HD.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL 
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISCOVERY_CHANNEL_HD&type=m3u8
+#EXTINF:-1, NAT GEO
+http://asdfcvb.000webhostapp.com//canal.php?canal=NATGEO_HD&type=m3u8
+#EXTINF:-1, ANIMAL PLANET 
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=ANIMAL_PLANET_HD&type=m3u8
+#EXTINF:-1, NAT GEO WILD 
+http://millave.ml/canal2/kshdbvsgndvsiygdvsdvsdlfkghdfugisdsfsf-NATGEO_WILD_HD.m3u8
+#EXTINF:-1, UFC
+http://antenatv.tk/wbccuytrpcstrfviucqtenc37cnj32-UFCNetwork.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE 
+http://millave.ml/canal2/kshdbvsgndvsiygdvsdvsdlfkghdfugisdsfsf-DISCOVERY_SCIENCE.m3u8
+
+#EXTINF:-1, ENLACE
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, CRISTIANO
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:-1, TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-1, A&E
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=AE_MUNDO_HD&type=m3u8
+#EXTINF:-1, AMC
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-AMC_HD-2.m3u8
+#EXTINF:-1, AXN
+
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-AXN_HD-2.m3u8
+#EXTINF:-1, FOX
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FOX_HD-2.m3u8
+#EXTINF:-1, FOX OPCIÓN 2
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=FOX_HD&type=m3u8
+#EXTINF:-1,ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, SPACE
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-SPACE_HD-2.m3u8
+#EXTINF:-1, SPACE OPCION2
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=SPACE_HD&type=m3u8
+#EXTINF:-1, GOLDEN
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-GOLDEN_HD-2.m3u8
+#EXTINF:-1, WARNER CHANNEL
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=WARNER_HD&type=m3u8
+#EXTINF:-1, CINECANAL
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-CINECANAL_HD-2.m3u8
+#EXTINF:-1, CINECANAL 2
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=CINECANAL_HD&type=m3u8
+#EXTINF:-1, TNT
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-TNT_HD-2.m3u8
+#EXTINF:-1, TNT SERIES
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-TNT_SERIES_HD-2.m3u8
+#EXTINF:-1, FX
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FX_HD-2.m3u8
+#EXTINF:-1, TRUTV
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-TRU_TV_HD-2.m3u8
+#EXTINF:-1, FOX ACTION
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FOXACTION_HD-2.m3u8
+#EXTINF:-1, FOX ACTION2
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=FOXACTION_HD&type=m3u8
+#EXTINF:-1, FOX MOVIES
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FOXMOVIES_HD-2.m3u8
+#EXTINF:-1, FOX CINEMA
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-FOX_CIMEMA_HD-2.m3u8
+#EXTINF:-1, SONY
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-SONY_HD-2.m3u8
+#EXTINF:-1, HBO
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-HBO_HD-2.m3u8
+#EXTINF:-1, HBO
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=HBO_HD&type=m3u8
+#EXTINF:-1, HBO FAMILY
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-HBO_FAMILY_HD-2.m3u8
+#EXTINF:-1, HBO FAMILY
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=HBO_FAMILY_HD&type=m3u8
+#EXTINF:-1, HBO SIGNATURE
+http://millave.ml/canal2/zdjhdvojdfvkdfvkdnfvndlusgvldfnbsoeuf-HBO_SIGNATURE_HD-2.m3u8
+#EXTINF:-1, SUNDANCE
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
+#EXTINF:-1, FOX CINEMA
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:-1, TLC
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(TLC_HD)/index.m3u8
+
+#EXTINF:-1, HBO PLUS
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8
+#EXTINF:-1, FXM
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(FXMMX_HD)/index.m3u8
+#EXTINF:-1, FOX LIFE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/index.m3u8
+#EXTINF:-1, MAX
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX)/index.m3u8
+#EXTINF:-1, MAX PRIME
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+#EXTINF:-1, V PLUS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?knmr.m3u8?knmrgratis?Entretenimiento.m3u8?
+#EXTINF:-1, UNIVISION
+https://srregio.xyz/regiotv/knmr/univision.php
+#EXTINF:-1, TELE SUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:-1, CLARO SPORTS
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1, ESPN 2
+http://asdfcvb.000webhostapp.com/canal.php?canal=ESPN_2_HD&type=m3u8
+#EXTINF:-1, FOX SPORTS
+http://asdfcvb.000webhostapp.com/canal.php?canal=FOX_SPORTS_HD&type=m3u8
+#EXTINF:-1, FOX 2
+http://link.theplatform.com/s/flac/XRQo5c9_wOeG?mbr=true&manifest=m3u&auth=DpV3hL6kKU6KXhww6gp0ocCkQPDKcDAs&type=m3u8
+#EXTINF:-1, FOX SPORTS 3
+http://hxh11075.000webhostapp.com/canal2.php?canal=FOX_SPORTS3_HD&type=m3u8
+#EXTINF:-1, ESPN 
+http://asdfcvb.000webhostapp.com/canal.php?canal=ESPN_HD&type=m3u8
+#EXTINF:-1, DIRECTV SPORTS 
+http://antenatv.tk/wbccuytrpcstrfviucqtenc37cnj32-DirectTVSports.m3u8?pk=daa8ef61dc82cd62e2c1beeb116d4cf53ca4a298a73054dc5a9acccc760bc75f
+#EXTINF:-1, ESPN 3
+http://hxh11075.000webhostapp.com/canal2.php?canal=ESPN_3_HD&type=m3u8
+#EXTINF:-1, BEIN SPORTS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
